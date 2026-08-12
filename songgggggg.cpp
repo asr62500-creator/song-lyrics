@@ -65,14 +65,14 @@ vector<Line> lyrics =
     // Line 2
     {
         "Gawah Ye Chaand Taare Hai",
-        4550,
+        4750,
         10
     },
 
     // Line 3
     {
         "Na Samjho Ajnabi Sadiyon Se",
-        7900,
+        8000,
         13
     },
 
