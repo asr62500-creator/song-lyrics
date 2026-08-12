@@ -58,35 +58,31 @@ vector<Line> lyrics =
     // Line 1
     {
         "Falak Se Puch Lo Chahe",
-        1250,
+        1350,
         11
     },
 
     // Line 2
     {
         "Gawah Ye Chaand Taare Hai",
-        4350,
+        4550,
         10
     },
 
     // Line 3
     {
         "Na Samjho Ajnabi Sadiyon Se",
-        7800,
+        7900,
         13
     },
 
     // Line 4
     {
         "Hum To Bass Tumhare Hai",
-        11800,
+        11400,
         12
     },
-    {
-        "............",
-        11850,
-        7  
-    },
+   
     // Line 5
     {
         "Mohabbat Se Nahi Waakif",
